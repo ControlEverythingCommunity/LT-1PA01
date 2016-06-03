@@ -35,7 +35,7 @@ https://pypi.python.org/pypi/smbus-cffi/0.5.1
 Download (or git pull) the code in pi. Run the program.
 
 ```cpp
-$> python LT-1PA01.py
+$> python LT_1PA01.py
 ```
 
 ## Arduino
