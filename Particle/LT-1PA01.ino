@@ -73,6 +73,7 @@ void loop()
 
   // Output data to dashboard
   Particle.publish("Proximity of the Device : ", String(proximity));
+  delay(1000);
   Particle.publish("Ambient Light Luminance : ", String(luminance));
-  delay(500);
+  delay(1000);
 }
